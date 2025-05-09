@@ -28,10 +28,3 @@ ToxicCheck is a web-based tool for classifying and visualizing the toxicity of u
 
 ---
 
-## 📦 Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/toxiccheck.git
-cd toxiccheck
